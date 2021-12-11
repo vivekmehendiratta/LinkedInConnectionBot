@@ -18,4 +18,4 @@ For this project, I leveraged and enhanced my web-scrapping skills using seleniu
 
 ## Disclaimer
 
-This is project for enhancing my skills in web scrapping. Long runiing or extensive use of this code can lead to permanent blocking of LinkedIn account.
+This project is for enhancing my skills in web scrapping. Long running or extensive use of this code can lead to permanent blocking of LinkedIn account.
